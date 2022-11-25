@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T02:23:55.051Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/107.0.1418.36 Version/15.0 Mobile/15E148 Safari/604.1" etag="6yL_oaQWb7zOYRhjiaWk" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T02:34:34.642Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/107.0.1418.36 Version/15.0 Mobile/15E148 Safari/604.1" etag="YOfCAewd9ntQ_r6oChAu" version="20.5.3" type="github">
   <diagram id="Y8VD3bbsFug7fa-G-Edv" name="Page-1">
-    <mxGraphModel dx="1099" dy="1560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1623" dy="2130" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cE-XZR6qFVG_7nGPDlGH-24" value="Edge device (MR IIoT)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-22" y="-101" width="541" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-20" value="Docker containers" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-62" width="453" height="170" as="geometry" />
+        </mxCell>
         <mxCell id="nwVFUQn7Gyxe_FwkuT-B-6" value="Database server" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-213" y="-382" width="1279" height="266" as="geometry" />
         </mxCell>
@@ -15,9 +21,6 @@
         </mxCell>
         <mxCell id="ojhhG3WkHg60o16cQQcv-8" value="Scripts" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-99" y="229" width="645" height="595" as="geometry" />
-        </mxCell>
-        <mxCell id="cE-XZR6qFVG_7nGPDlGH-24" value="Edge device (MR IIoT)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-118" y="-101" width="702" height="226" as="geometry" />
         </mxCell>
         <mxCell id="cE-XZR6qFVG_7nGPDlGH-3" value="Application" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-83" y="336" width="617" height="215" as="geometry" />
@@ -104,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cE-XZR6qFVG_7nGPDlGH-4" value="Agent" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="324" y="-27" width="160" height="86" as="geometry" />
+          <mxGeometry x="295" y="-27" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="cE-XZR6qFVG_7nGPDlGH-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontColor=#5C5C5C;rounded=0;" parent="cE-XZR6qFVG_7nGPDlGH-4" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -125,18 +128,6 @@
           <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="cE-XZR6qFVG_7nGPDlGH-11" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontColor=#5C5C5C;rounded=0;" parent="cE-XZR6qFVG_7nGPDlGH-8" vertex="1">
-          <mxGeometry y="60" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cE-XZR6qFVG_7nGPDlGH-12" value="Device" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-74" y="-31" width="160" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="cE-XZR6qFVG_7nGPDlGH-13" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontColor=#5C5C5C;rounded=0;" parent="cE-XZR6qFVG_7nGPDlGH-12" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cE-XZR6qFVG_7nGPDlGH-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=16;strokeColor=#006658;fontColor=#5C5C5C;rounded=0;" parent="cE-XZR6qFVG_7nGPDlGH-12" vertex="1">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="cE-XZR6qFVG_7nGPDlGH-15" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontColor=#5C5C5C;rounded=0;" parent="cE-XZR6qFVG_7nGPDlGH-12" vertex="1">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cE-XZR6qFVG_7nGPDlGH-25" value="Class" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;rounded=0;" parent="1" vertex="1">
