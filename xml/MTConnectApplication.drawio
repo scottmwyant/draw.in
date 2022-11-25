@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T02:57:40.051Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/107.0.1418.36 Version/15.0 Mobile/15E148 Safari/604.1" etag="T4oWhfGls-KNuRoLemiA" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T03:06:33.213Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/107.0.1418.36 Version/15.0 Mobile/15E148 Safari/604.1" etag="4sP_Hv68yQc3Q4iEWdNp" version="20.5.3" type="github">
   <diagram id="Y8VD3bbsFug7fa-G-Edv" name="Page-1">
-    <mxGraphModel dx="4136" dy="4392" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3647" dy="3860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,12 @@
         </mxCell>
         <mxCell id="nwVFUQn7Gyxe_FwkuT-B-58" value="SAP MII" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-636" y="-1194" width="438" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-59" value="Banner Engineering / SnapSignal" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-51" y="1907" width="376" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-60" value="MODBUS driver" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="302" y="1619" width="217" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
