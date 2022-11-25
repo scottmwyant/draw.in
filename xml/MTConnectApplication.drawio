@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T02:48:52.931Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/107.0.1418.36 Version/15.0 Mobile/15E148 Safari/604.1" etag="wipltuOjSYkE8Jt8r9Ed" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T02:54:18.400Z" agent="5.0 (iPad; CPU OS 15_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/107.0.1418.36 Version/15.0 Mobile/15E148 Safari/604.1" etag="0oSu2PAWph0i7j6TBIR3" version="20.5.3" type="github">
   <diagram id="Y8VD3bbsFug7fa-G-Edv" name="Page-1">
-    <mxGraphModel dx="3297" dy="3080" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="1739" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="-213" y="-382" width="1279" height="266" as="geometry" />
         </mxCell>
         <mxCell id="nwVFUQn7Gyxe_FwkuT-B-1" value="Ignition" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="145" width="799" height="1445" as="geometry" />
+          <mxGeometry x="-190" y="145" width="799" height="1685" as="geometry" />
         </mxCell>
         <mxCell id="ojhhG3WkHg60o16cQQcv-1" value="MTConnect Project" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="-152" y="183" width="737" height="1023" as="geometry" />
@@ -270,6 +270,18 @@
         </mxCell>
         <mxCell id="nwVFUQn7Gyxe_FwkuT-B-53" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontColor=#5C5C5C;rounded=0;" vertex="1" parent="nwVFUQn7Gyxe_FwkuT-B-50">
           <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-54" value="OPC connections&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="1575" width="736" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-55" value="Kepware" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1052" y="273" width="403" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-56" value="Fanuc FOCAS driver&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-843" y="308" width="151" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="nwVFUQn7Gyxe_FwkuT-B-57" value="OPC server" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-1022" y="308" width="166" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
